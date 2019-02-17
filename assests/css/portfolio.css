@@ -1,0 +1,49 @@
+.navbar {
+    position: fixed;
+    border-bottom: 2px solid #cccccc;
+}
+
+
+h1 {
+    color: teal;
+}
+
+body {
+    background-color: rgb(144, 187, 149);
+
+}
+
+
+.container {
+    width: 60%;
+
+}
+
+.row {
+    border: 1px solid #cecece;
+    border-width: 5px;
+    padding-top: 10px;
+    border-color: teal;
+    background-color: white;
+}
+
+
+
+img {
+    width: 100%;
+    min-height: 100px;
+}
+
+.navbar-fixed-bottom {
+    background-color: black;
+    color: teal;
+}
+
+.page-header {
+    margin-top: 70px;
+}
+
+.navbar-fixed-bottom {
+    border-top: 3px solid #cccccc;
+
+}

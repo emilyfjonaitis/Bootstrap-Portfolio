@@ -1,0 +1,39 @@
+.navbar {
+    position: fixed;
+    border-bottom: 2px solid #cccccc;
+}
+
+h1 {
+    margin-top: 70px;
+    color: teal;
+}
+
+
+.container {
+    width: 60%;
+}
+
+body {
+    background-color: rgb(144, 187, 149);
+
+}
+
+.row {
+    border: 1px solid #cecece;
+    border-width: 5px;
+    padding: 10px;
+    border-color: teal;
+    color: teal;
+    background-color: white;
+}
+
+.btn-secondary {
+    background-color: teal;
+    color: black;
+
+}
+
+.navbar-fixed-bottom {
+    border-top: 3px solid #cccccc;
+
+}
